@@ -1,0 +1,220 @@
+#banniere 
+{
+	height: 200px;
+	background-color:rgba(0,0,0,.72);
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+	font-family: Gadugi;
+	font-size: 20px;
+	
+		
+}
+
+
+
+
+nav
+{
+	background-color: #e26a6b;
+	text-align: center;
+	
+}
+
+nav ul
+{
+	margin: 0; 
+	padding: 0; 
+}
+nav ul li
+{
+	
+	margin: 0 35px;
+	font-size: 12px;
+	display :inline-block;
+	
+}
+nav ul li h2 
+{
+ 
+ 
+ font-family: Gadugi;
+ margin: 20px;
+ margin-bottom: 20px;
+
+ 
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+}
+
+nav ul li:hover h2 a
+
+{
+	text-decoration: none;
+	color : black;
+}
+nav ul li:hover
+{
+	background: white;
+}
+
+
+main h1 
+{
+	text-align: center;
+
+}
+
+main p
+{
+	text-align: center;
+	font-size: 20px;
+	
+	
+}
+
+main img
+{
+	width: auto;
+	height: 1258px;
+	
+}
+
+
+.content {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+
+
+
+
+form p{
+	text-align: center;
+	font-family: Gadugi;
+
+}
+
+h1{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#recette{
+
+	font-family: Gadugi;
+	font-size: 20px;
+	margin-left: 30px  ;
+
+
+
+}
+
+table
+{
+    border-collapse: collapse;
+	margin : auto;
+	width:1000px; 
+	height:400px;
+	font-size: 20px;
+	margin-top : 100px;
+	 border: 0;
+
+	
+}
+
+tr {
+	
+	font-family: Gadugi;
+	
+
+	
+}
+td, th 
+
+{
+
+    border: 1px solid black;
+	text-align : center;
+	text-decoration: none;
+	 padding: 0;
+	
+
+}
+caption {
+	padding-top: 30px;
+	padding-bottom: 50px;
+	font-family: Gadugi;
+	font-size: 30px;
+
+}
+
+
+#case{
+	text-align :center;
+	
+	
+	
+}
+
+
+ 
+ form p .bouton
+ {
+ 	
+ 	background: white;
+ 	color: black;
+ 	border: 2px black solid;
+ 	outline: none;
+ 	width: 200px;
+ 	height: 40px;
+ 	font-size: 20px;
+ 	font-family: Gadugi;
+ 	margin-top: 20px;
+
+ 	
+ }
+form p .bouton:hover
+{
+	color: white;
+	background: black ;
+}
+
+
+
+footer{
+	background:rgba(0,0,0,.72);
+	height: 80px;
+	margin-top: 60px;
+	display: flex;
+    align-items: center;
+    justify-content: space-around;
+    clear: both;
+   
+		
+}
+
+
+
+
+
+
+footer a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+
+}
+
+footer a:hover
+{
+	color:grey;
+}
+
